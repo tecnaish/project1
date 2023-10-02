@@ -18,10 +18,6 @@ import {
 import { Image } from "react-bootstrap"; // Import Image from react-bootstrap
 
 function App() {
-  const [val,setVal] = useState("");
-  const [vall,setVall] = useState("");
-  const chkk = ["Yes", "No"];
-  const chk = ["Yes", "No"];
   const [value, setValue] = useState(null);
   const options = [
     { value: "Grade 12th", label: "Grade 12th" },
