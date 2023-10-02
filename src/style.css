@@ -1,0 +1,21 @@
+
+body{
+    background-color: #fbf6f52a;
+}
+
+.container{
+ 
+    padding: 16px 10px;
+    justify-content: center;
+    width: 50%;
+    margin-left: 26%;
+    text-align: center;
+   
+}
+
+@media (min-width:500px) and (max-width:800px){
+    #box-1{
+      display: block;
+      background-color: antiquewhite;
+    }
+  }
